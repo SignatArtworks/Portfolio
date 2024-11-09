@@ -1,0 +1,15 @@
+title: "My Portfolio"
+description: "A showcase of my art, photography, and AI creations."
+baseurl: "" # leave empty for the root site
+url: "https://<your-username>.github.io/portfolio" # replace with your actual URL
+theme: minimal-mistakes-jekyll
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Minimal Mistakes settings
+minimal_mistakes_skin: "default" # You can change this to other skins like "dark", "solarized", etc.
+show_excerpts: true
+paginate: 5
