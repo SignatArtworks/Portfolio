@@ -1,3 +1,3 @@
 title: "My Portfolio"
 description: "A showcase of my paintings, photography, and AI-generated art."
-remote_theme: "pages-themes/cayman"
+theme: jekyll-theme-cayman
