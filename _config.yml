@@ -1,6 +1,6 @@
 title: "My Portfolio"
 description: "A showcase of my paintings, photography, and AI-generated art."
-remote_theme: "mmistakes/minimal-mistakes@4.18.0"
+remote_theme: "mmistakes/minimal-mistakes@4.9.0"
 defaults:
   - scope:
       path: "_posts"
