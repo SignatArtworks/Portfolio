@@ -1,11 +1,6 @@
 title: "My Portfolio"
 description: "A showcase of my paintings, photography, and AI-generated art."
-baseurl: ""  # keep this empty for the root directory
-url: "https://signatartworks.github.io/portfolio"  # Replace with your actual URL
-repository: signatartworks/portfolio
-remote_theme: "pages-themes/cayman@v0.2.0" # Specifies the theme version
-
-# Plugins
+remote_theme: "pages-themes/cayman@v0.2.0"
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
