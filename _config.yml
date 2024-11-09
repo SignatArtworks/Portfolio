@@ -1,16 +1,21 @@
 title: "My Portfolio"
-description: "A showcase of my art, photography, and AI creations."
-baseurl: "" # leave empty for the root site
+description: "A showcase of my paintings, photography, and AI-generated art."
+baseurl: ""  # keep this empty unless you need a subdirectory
 url: "https://signatartworks.github.io/portfolio" # replace with your actual URL
 repository: signatartworks/portfolio
 remote_theme: "mmistakes/minimal-mistakes@4.9.0"
 
+# Minimal Mistakes specific settings
 plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate
 
-# Minimal Mistakes settings
-minimal_mistakes_skin: "default" # You can change this to other skins like "dark", "solarized", etc.
-show_excerpts: true
-paginate: 5
+paginate: 5  # adjust to show 5 posts per page
+
+# Social links (optional)
+author:
+  name: "Simon Ignat"
+#  avatar: "/assets/images/avatar.png"  # example avatar image
+
+
