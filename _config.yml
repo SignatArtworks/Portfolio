@@ -1,6 +1,6 @@
 title: "My Portfolio"
 description: "A showcase of my paintings, photography, and AI-generated art."
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+theme: "jekyll-theme-minimal"
 defaults:
   - scope:
       path: "_posts"
