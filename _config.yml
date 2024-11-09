@@ -1,21 +1,17 @@
 title: "My Portfolio"
 description: "A showcase of my paintings, photography, and AI-generated art."
-baseurl: ""  # keep this empty unless you need a subdirectory
-url: "https://signatartworks.github.io/portfolio" # replace with your actual URL
+baseurl: ""
+url: "https://signatartworks.github.io/portfolio"
 repository: signatartworks/portfolio
 remote_theme: "mmistakes/minimal-mistakes@4.9.0"
 
-# Minimal Mistakes specific settings
+# Plugins
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-paginate
 
-paginate: 5  # adjust to show 5 posts per page
+paginate: 5  # Number of posts per page
 
 # Social links (optional)
 author:
   name: "Simon Ignat"
-#  avatar: "/assets/images/avatar.png"  # example avatar image
-
-
