@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Deconstructed Heart"
 date: 2024-11-01
 categories: [art]
