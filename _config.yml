@@ -1,6 +1,6 @@
 title: "My Portfolio"
 description: "A showcase of my paintings, photography, and AI-generated art."
-theme: jekyll-theme-cayman
+theme: minimal-mistakes-jekyll
 defaults:
   - scope:
       path: "_posts"
