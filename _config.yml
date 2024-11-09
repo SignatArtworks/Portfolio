@@ -2,6 +2,7 @@ title: "My Portfolio"
 description: "A showcase of my art, photography, and AI creations."
 baseurl: "" # leave empty for the root site
 url: "https://signatartworks.github.io/portfolio" # replace with your actual URL
+repository: signatartworks/portfolio
 remote_theme: "mmistakes/minimal-mistakes@4.9.0"
 
 plugins:
