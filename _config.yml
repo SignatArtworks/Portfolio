@@ -1,5 +1,3 @@
 title: "My Portfolio"
 description: "A showcase of my paintings, photography, and AI-generated art."
-remote_theme: "pages-themes/cayman@v0.2.0"  # Set Cayman theme directly for simplicity
-show_excerpts: true
-paginate: 5
+remote_theme: "pages-themes/cayman"
