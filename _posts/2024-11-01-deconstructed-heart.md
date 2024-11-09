@@ -1,6 +1,6 @@
 ---
-title: "Deconstructed Heart"
 layout: post
+title: "Deconstructed Heart"
 date: 2024-11-01
 categories: [art]
 tags: [painting]
