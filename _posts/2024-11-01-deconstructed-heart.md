@@ -1,5 +1,6 @@
 ---
 title: "Deconstructed Heart"
+layout: post
 date: 2024-11-01
 categories: [art]
 tags: [painting]
