@@ -1,4 +1,3 @@
 title: "My Portfolio"
 description: "A showcase of my paintings, photography, and AI-generated art."
 theme: jekyll-theme-cayman
-baseurl: "/portfolio"  # Set to repository name if it's not already
