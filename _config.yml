@@ -1,9 +1,5 @@
 title: "My Portfolio"
 description: "A showcase of my paintings, photography, and AI-generated art."
-remote_theme: "mmistakes/minimal-mistakes@4.9.0"  # Uses Minimal Mistakes theme
-paginate: 5
-paginate_path: "/page:num/"
+remote_theme: "pages-themes/cayman@v0.2.0"  # Set Cayman theme directly for simplicity
 show_excerpts: true
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+paginate: 5
