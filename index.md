@@ -5,7 +5,7 @@ permalink: /
 ---
 
 # Welcome to my portfolio!
-Explore my collection of paintings, photography, and AI-generated art.
+Explore my collection of paintings, photographies, and AI-generated art.
 
 {% for post in site.posts limit:5 %}
   <h2>{{ post.title }}</h2>
