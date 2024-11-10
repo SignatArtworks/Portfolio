@@ -3,7 +3,7 @@ title: "Blooming Dance"
 date: 2024-11-09
 categories: [art]
 tags: [painting]
-image: /assets/paintings/30x30_90x30_blooming_dance.jpg
+image: /assets/paintings/90x30_30x30_blooming_dance.jpg
 description: "30x30 cm & 90x30 cm | Acrylic on Canvas"
 ---
 
