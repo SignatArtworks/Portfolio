@@ -1,5 +1,5 @@
 ---
-title: "Enchanted Growth"
+title: "Enchanted Growth - 40x40 cm & 30x30 cm | Acrylic on Canvas"
 date: 2024-11-09
 categories: [art]
 tags: [painting]
