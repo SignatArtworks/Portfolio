@@ -1,5 +1,5 @@
 ---
-title: "Cosmic Bloom"
+title: "Cosmic Bloom - 20x20 cm | Acrylic on Canvas"
 date: 2024-11-09
 categories: [art]
 tags: [painting]
