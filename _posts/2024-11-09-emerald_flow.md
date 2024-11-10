@@ -1,9 +1,9 @@
 ---
-title: "Emerald Flow"
+title: "Emerald Flow - 55x65 cm & 50x60 cm | Acrylic on Canvas"
 date: 2024-11-09
 categories: [art]
 tags: [painting]
-image: /assets/paintings/55x65_50x60_emerald_flow.jpg
+image: /assets/paintings/50x60_emerald_flow.jpg
 description: "55x65 cm & 50x60 cm | Acrylic on Canvas"
 ---
 
