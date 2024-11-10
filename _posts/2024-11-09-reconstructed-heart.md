@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Reconstructed Heart"
+title: "Reconstructed Heart - 100x100 cm | Oil on Canvas"
 date: 2024-11-09
 categories: [art]
 tags: [painting]
