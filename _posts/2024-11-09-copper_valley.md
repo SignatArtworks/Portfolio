@@ -1,5 +1,5 @@
 ---
-title: "Copper Valley"
+title: "Copper Valley - 65x80 cm | Acrylic on Canvas"
 date: 2024-11-09
 categories: [art]
 tags: [painting]
