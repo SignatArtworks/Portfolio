@@ -1,5 +1,5 @@
 ---
-title: "Rainbow Wave"
+title: "Rainbow Wave - 60x120 cm | Acrylic on Canvas"
 date: 2024-11-09
 categories: [art]
 tags: [painting]
