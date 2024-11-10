@@ -1,10 +1,10 @@
 ---
 layout: default
 title: "Deconstructed Heart"
-date: 2024-11-01
+date: 2024-11-09
 categories: [art]
 tags: [painting]
-image: /assets/paintings/100x100_deconstructed_heart.jpg
+image: /assets/paintings/100x100_reconstructed_heart.jpg
 description: "A brief description of this piece."
 ---
 
