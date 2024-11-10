@@ -4,6 +4,9 @@ title: "Welcome to My Portfolio"
 permalink: /
 ---
 
+<!-- Hardcoded image test -->
+<img src="/assets/paintings/100x100_deconstructed_heart.jpg"
+
 # Welcome to my portfolio!
 Explore my collection of paintings, photographies, and AI-generated art.
 
