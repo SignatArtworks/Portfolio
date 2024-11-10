@@ -1,5 +1,5 @@
 ---
-title: "Urban Rhythm"
+title: "Urban Rhythm - 41x32 cm | Acrylic on Canvas"
 date: 2024-11-09
 categories: [art]
 tags: [painting]
