@@ -1,11 +1,13 @@
 ---
 layout: default
-title: "Welcome to My Portfolio"
+title: "Simon Ignat"
 permalink: /
 ---
 
 # Welcome to my portfolio!
 Explore my collection of paintings, photographies, and AI-generated art.
+
+# Oil and Acrylic Paintings
 
 {% for post in site.posts %}
 <h2>{{ post.title }}</h2>
