@@ -1,5 +1,5 @@
 ---
-title: "Eternal Flow"
+title: "Eternal Flow - Oil on Canvas"
 date: 2024-11-09
 categories: [art]
 tags: [painting]
