@@ -4,7 +4,6 @@ title: "Simon Ignat"
 permalink: /
 ---
 
-# Welcome to my portfolio!
 Explore my collection of paintings, photographies, and AI-generated art.
 
 # Oil and Acrylic Paintings
@@ -12,7 +11,7 @@ Explore my collection of paintings, photographies, and AI-generated art.
 {% for post in site.posts %}
 <h2>{{ post.title }}</h2>
 {% if post.image %}
-<img src="{{ post.image | relative_url }}" alt="{{ post.title }}" style="max-width: 25%; height: auto;">
+<img src="{{ post.image | relative_url }}" alt="{{ post.title }}" style="max-width: 50%; height: auto;">
 {% endif %}
 <p>{{ post.excerpt }}</p>
 <a href="{{ post.url | relative_url }}">Read more</a>
