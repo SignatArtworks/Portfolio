@@ -1,5 +1,5 @@
 ---
-title: "Spirals of Time"
+title: "Spirals of Time - 50x60 cm | Oil on Canvas"
 date: 2024-11-09
 categories: [art]
 tags: [painting]
