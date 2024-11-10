@@ -1,5 +1,5 @@
 ---
-title: "Sunset Grove"
+title: "Sunset Grove - 30x30 cm & 40x40 cm | Acrylic on Canvas"
 date: 2024-11-09
 categories: [art]
 tags: [painting]
