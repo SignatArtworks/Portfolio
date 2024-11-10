@@ -1,5 +1,5 @@
 ---
-title: "Blooming Dance"
+title: "Blooming Dance - 30x30 cm & 90x30 cm | Acrylic on Canvas"
 date: 2024-11-09
 categories: [art]
 tags: [painting]
