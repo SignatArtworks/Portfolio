@@ -2,6 +2,7 @@
 title: "Spirals of Time - 50x60 cm | Oil on Canvas"
 date: 2024-11-09
 categories: [art]
+category: paintings
 tags: [painting]
 image: /assets/paintings/50x60_spirals_of_time.jpg
 description: "50x60 cm | Oil on Canvas"
