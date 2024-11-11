@@ -4,8 +4,6 @@ title: "Simon Ignat"
 permalink: /
 ---
 
-Explore my collection of paintings, photographies, and AI-generated art.
-
 # Oil and Acrylic Paintings
 
 {% assign random_seed = site.time | date: "%s" | plus: 0 %}
