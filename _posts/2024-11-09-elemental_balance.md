@@ -2,6 +2,7 @@
 title: "Elemental Balance - 60x80 cm | Acrylic on Canvas"
 date: 2024-11-09
 categories: [art]
+category: paintings
 tags: [painting]
 image: /assets/paintings/60x80_elemental_balance.jpg
 description: "60x80 cm | Acrylic on Canvas"
