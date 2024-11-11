@@ -3,6 +3,7 @@ layout: default
 title: "Reconstructed Heart - 100x100 cm | Oil on Canvas"
 date: 2024-11-09
 categories: [art]
+category: paintings
 tags: [painting]
 image: /assets/paintings/100x100_reconstructed_heart.jpg
 description: "100x100 cm | Oil on Canvas"
