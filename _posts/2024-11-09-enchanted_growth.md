@@ -2,6 +2,7 @@
 title: "Enchanted Growth - 40x40 cm & 30x30 cm | Acrylic on Canvas"
 date: 2024-11-09
 categories: [art]
+category: paintings
 tags: [painting]
 image: /assets/paintings/40x40_30x30_enchanted_growth.jpg
 description: "40x40 cm & 30x30 cm | Acrylic on Canvas"
