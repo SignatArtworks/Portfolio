@@ -1,10 +1,9 @@
 ---
 layout: default
-title: "Welcome to My Portfolio"
+title: "Portfolio"
 permalink: /
 ---
 
-<h1>Welcome to my portfolio!</h1>
 <p>Explore my work by category:</p>
 
 <ul>
