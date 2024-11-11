@@ -1,7 +1,7 @@
 title: "Simon Ignat Artworks"
 description: "A showcase of my paintings, photographies, and AI-generated art."
 #remote_theme: "mmistakes/minimal-mistakes@4.9.0"
-#theme: jekyll-theme-hacker
+theme: jekyll-theme-hacker
 show_downloads: false
 defaults:
   - scope:
