@@ -2,6 +2,7 @@
 title: "Harmonic Flow - Oil on Canvas"
 date: 2024-11-09
 categories: [art]
+category: paintings
 tags: [painting]
 image: /assets/paintings/harmonic_flow.jpg
 description: "Oil on Canvas"
