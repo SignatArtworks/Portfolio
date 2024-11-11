@@ -2,6 +2,7 @@
 title: "Copper Valley - 65x80 cm | Acrylic on Canvas"
 date: 2024-11-09
 categories: [art]
+category: paintings
 tags: [painting]
 image: /assets/paintings/65x80_copper_valley.jpg
 description: "65x80 cm | Acrylic on Canvas"
