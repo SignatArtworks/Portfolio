@@ -2,6 +2,7 @@
 title: "Sunset Grove - 30x30 cm & 40x40 cm | Acrylic on Canvas"
 date: 2024-11-09
 categories: [art]
+category: paintings
 tags: [painting]
 image: /assets/paintings/30x30_40x40_sunset_grove.jpg
 description: "30x30 cm & 40x40 cm | Acrylic on Canvas"
