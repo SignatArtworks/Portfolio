@@ -1,9 +1,9 @@
 ---
 title: "Karvat Winter Sunrise"
 date: 2024-11-10
-categories: [photo]
-category: photo
-tags: [photo]
-image: /assets/photos/karvat_winter_sunrise.jpg
+categories: [photos]
+category: photos
+tags: [photos]
+image: /assets/photos/karvat_winter_sunrise.png
 description: "Photography"
 ---
